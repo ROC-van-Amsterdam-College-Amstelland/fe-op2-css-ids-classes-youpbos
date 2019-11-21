@@ -79,21 +79,21 @@ Maak voor onderstaande taken telkens per taak één CSS regel aan met dus één 
 
 
 - [x] Als je een van de onderstaande taken hebt afgerond zet dan in README.md een 'x' tussen de [ ]. In je repository wordt dan bij de opdracht de taak afgevinkt.
-- [ ] 1. Geef de header, main en footer een width van 100%
-- [ ] 2. Geef de header en footer een height van 20%
-- [ ] 3. Geef de main een height van 80% en een achtergrondkleur naar keuze
-- [ ] 4. Pas de header, footer CSS regel aan, voeg een achtergrondkleur naar keuze toe
-- [ ] 5. Geef alleen het logo in de header een margin van 20px
-- [ ] 6. Geef alleen het logo in de main een width van 400px
-- [ ] 7. Geef alleen het logo in de footer een border van 1px solid black
-- [ ] 8. Maak van de nav in de header en de ul in die nav een flexbox container: (display:flex;) gebruik 1 CSS regel en Zorg ervoor dat het menu in de footer géén flexbox container wordt.
-- [ ] 9. Geef links van het menu in de header een padding van 20px;
-- [ ] 10. Haal bij alle links die in een nav zitten de underline weg (text-decoration: none)
-- [ ] 11. Haal bij de undordered lists in de header en footer de bullets weg (list-style-type:none;)
-- [ ] 12. Geef alle h1 elementen die direct afstammen van een div een font-size vanm 50px en een achtergrondkleur naar keuze
-- [ ] 13. Geef alle list items die direct afstammen van een ul een border van 1px dashed black
-- [ ] 14. Geef alle paragrafen die na een h3 koptekst komen een ander lettertype naar keuze (font-family: ...)
-- [ ] 15. Geef alle unordered lists die die volgen op een img element een color naar keuze en een list style type van circle (list-style-type: circle)
+- [x] 1. Geef de header, main en footer een width van 100%
+- [x] 2. Geef de header en footer een height van 20%
+- [x] 3. Geef de main een height van 80% en een achtergrondkleur naar keuze
+- [x] 4. Pas de header, footer CSS regel aan, voeg een achtergrondkleur naar keuze toe
+- [x] 5. Geef alleen het logo in de header een margin van 20px
+- [x] 6. Geef alleen het logo in de main een width van 400px
+- [x] 7. Geef alleen het logo in de footer een border van 1px solid black
+- [x] 8. Maak van de nav in de header en de ul in die nav een flexbox container: (display:flex;) gebruik 1 CSS regel en Zorg ervoor dat het menu in de footer géén flexbox container wordt.
+- [x] 9. Geef links van het menu in de header een padding van 20px;
+- [x] 10. Haal bij alle links die in een nav zitten de underline weg (text-decoration: none)
+- [x] 11. Haal bij de undordered lists in de header en footer de bullets weg (list-style-type:none;)
+- [x] 12. Geef alle h1 elementen die direct afstammen van een div een font-size vanm 50px en een achtergrondkleur naar keuze
+- [x] 13. Geef alle list items die direct afstammen van een ul een border van 1px dashed black
+- [x] 14. Geef alle paragrafen die na een h3 koptekst komen een ander lettertype naar keuze (font-family: ...)
+- [x] 15. Geef alle unordered lists die die volgen op een img element een color naar keuze en een list style type van circle (list-style-type: circle)
 
 ### Links
 
